@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/classes-b64babcf243c0f35c6d2e2e9af2517170a61eeed.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.0-d34ea37c3767c050c9844f700114498d8e9a326b.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.0-987eb1a3e18156d2a2856b94533ae2f0504d3ea3.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e7df583b5a150d666b00ac4cac2e38e75ce4eae9.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/classes-b9494b7f45869e95b896efe4f025b8bc2367fadf.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/pre-dexed/debug/classes-536798d77cacf7284c1855ce48528d23d223a981.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/classes-9bcdd1c5c330ad9c5a9d255bbcba4292a78d8d83.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/classes-9a0e11692baae008d35288b3ac027384af6e0bca.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/wear/build/intermediates/pre-dexed/release/classes-1f96c2f93d4c460fe456fb72f0a8bad9c5d21abc.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/pre-dexed/debug/classes-15966a4254ed5a819957615a8a7d29c1991a6f29.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ef8a363576c3801f8a43da36e141c443339d56cc.jar" />
+    </item>
+    <item
+        jar="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/liurenju/AndroidStudioProjects/TenNotificationSummary/mobile/build/intermediates/pre-dexed/debug/classes-87c90557f6ba9cf7c020846a786bee799c010d7b.jar" />
+    </item>
+
+</items>
